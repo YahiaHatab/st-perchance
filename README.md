@@ -16,7 +16,7 @@ This extension allows you to generate character images using [Perchance](https:/
 1. Open SillyTavern.
 2. Go to **Extensions** > **Install Extension**.
 3. Paste the GitHub URL of this repository:
-   `https://github.com/Antigravity-1/st-perchance` (or your specific repo URL)
+   `https://github.com/YahiaHatab/st-perchance` (or your specific repo URL)
 4. Click **Install**.
 
 ### Part 2: Setup the Bridge Server
