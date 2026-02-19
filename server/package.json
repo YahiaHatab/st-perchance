@@ -1,0 +1,16 @@
+{
+  "name": "st-perchance-bridge",
+  "version": "1.0.0",
+  "description": "Bridge server for SillyTavern Perchance extension",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "puppeteer": "^21.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
